@@ -9,7 +9,7 @@ genai.configure(api_key=api_key)
 model = genai.GenerativeModel("gemini-1.5-flash")
 
 def summarize_text(user_input):
-    prompt = f"Summarize into bullet points:\n\n{user_input}"
+    prompt = f"Summarize into bullet points using logical thinking about what is more crucial:\n\n{user_input}"
     try:
         response = model.generate_content(
             prompt,
