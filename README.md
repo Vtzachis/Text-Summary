@@ -21,7 +21,7 @@ Paste the raw texts, click a button, and instantly get a summarized list of all 
 ## 📦 Installation
 
 
-1. **Clone the repo**:
+**Clone the repo**:
    ```bash
    git clone https://github.com/yourusername/Text-Summary.git
    cd Text-Summary
