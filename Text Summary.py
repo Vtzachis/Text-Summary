@@ -28,4 +28,4 @@ with gr.Blocks() as demo:
 
 demo.launch(share=True)
 
-#works with local gradio server so i dont have to open a port for public sharing
+
