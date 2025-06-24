@@ -23,7 +23,7 @@ Paste the raw texts, click a button, and instantly get a summarized list of all 
 
 **Clone the repo**:
    ```bash
-   git clone https://github.com/yourusername/Text-Summary.git
+   git clone https://github.com/Vtzachis/Text-Summary.git
    cd Text-Summary
 
    
