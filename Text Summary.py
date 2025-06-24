@@ -1,7 +1,7 @@
 import google.generativeai as genai
 import gradio as gr
 from getpass import getpass
-api_key = getpass("Enter your OpenAI API key: ")
+api_key = getpass("Enter your API key: ")
 
 
 genai.configure(api_key=api_key)
