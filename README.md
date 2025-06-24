@@ -19,6 +19,7 @@ Paste the raw texts, click a button, and instantly get a summarized list of all 
 ---
 
 ## 📦 Installation
+**Generate API Key in Gemini AI Studio 
 
 
 **Clone the repo**:
