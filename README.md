@@ -6,7 +6,8 @@ Paste the raw texts, click a button, and instantly get a summarized list of all 
 ---
 
 ## 🚀 Demo
-![image](https://github.com/user-attachments/assets/97f2d6f9-2241-49e3-bdb6-86d799141b82)
+![image](https://github.com/user-attachments/assets/c911367c-7a7c-4f04-89fc-a0e180592cd6)
+
 
 
 ---
